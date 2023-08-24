@@ -1,4 +1,4 @@
-# MERN_Project
+# MERN Project
 
 ## clone or download
 ```terminal
